@@ -1,7 +1,7 @@
 {
     "name": "TgTwitterStreamer",
     "description": "RealTime Integration from Twitter to Telegram.",
-    "repository": "https://github.com/New-dev0/TgTwitterStreamer",
+    "repository": "https://github.com/CodeWithNeo/twistreamer",
     "logo": "https://telegra.ph/file/845054582c76963620311.jpg",
     "keywords": ["telegram", "twitter", "tweepy", "telegram bot", "twitter bot"],
     "env": {
@@ -18,7 +18,7 @@
             "value": "eb06d4abfb49dc3eeb1aeb98ae0f581e"
         },
         "CONSUMER_KEY": {
-            "description": "Read New-dev0.github.io/tgtwitterbot to Know About it.",
+            "description": "Read https://github.com/CodeWithNeo/twistreamer to Know About it.",
             "value": ""
         },
         "TRACK_USERS": {
